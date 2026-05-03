@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Atualmente, estou no terceiro ano do ensino médio técnico em Desenvolvimento de Sistemas, com foco voltado para análise de dados. Gosto de planejar, organizar ideias e transformar informações em algo útil — por isso, lidar com dados se tornou a parte que mais me interessa. No momento, meus objetivos são aprofundar meus conhecimentos na área e compartilhar meus projetos aqui no GitHub.</p>
-
-###
-
-<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPWFkZWE2ZTUyODVlOWh0dzJrN3N6eDRjNDRueTRmN3A2YTlycjZkMXV4dGwyeHZ3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/worHx2DK7pfHABT4u5/giphy.gif"  />
+<p align="left">Atualmente, estou no terceiro ano do ensino médio técnico em Desenvolvimento de Sistemas, com foco voltado para *análise de dados*. Gosto de planejar, organizar ideias e transformar informações em algo útil — por isso, lidar com dados se tornou a parte que mais me interessa. No momento, meus objetivos são aprofundar meus conhecimentos na área e compartilhar meus projetos aqui no GitHub.</p>
 
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<img align="right" height="219" src="https://media2.giphy.com/media/v1.Y2lkPWFkZWE2ZTUyODVlOWh0dzJrN3N6eDRjNDRueTRmN3A2YTlycjZkMXV4dGwyeHZ3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/worHx2DK7pfHABT4u5/giphy.gif"  />
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/analeticiacc" target="_blank">
+  <a href="htpps://www.linkedin.com/in/analeticiacc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/analeticia_cc/" target="_blank">
@@ -54,10 +54,10 @@
 
 ###
 
-<p align="left"></p>
+<h2 align="left"></h2>
 
 ###
 
-<h2 align="left"></h2>
+<p align="left"></p>
 
 ###
