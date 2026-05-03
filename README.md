@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente, estou no terceiro ano do ensino médio técnico em Desenvolvimento de Sistemas, com foco voltado para *análise de dados*. Gosto de planejar, organizar ideias e transformar informações em algo útil — por isso, lidar com dados se tornou a parte que mais me interessa. No momento, meus objetivos são aprofundar meus conhecimentos na área e compartilhar meus projetos aqui no GitHub.</p>
+<p align="left">Atualmente, estou no terceiro ano do ensino médio técnico em Desenvolvimento de Sistemas, com foco voltado para análise de dados. Gosto de planejar, organizar ideias e transformar informações em algo útil — por isso, lidar com dados se tornou a parte que mais me interessa. No momento, meus objetivos são aprofundar meus conhecimentos na área e compartilhar meus projetos aqui no GitHub.</p>
 
 ###
 
